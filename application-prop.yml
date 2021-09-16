@@ -1,2 +1,2 @@
 config:
-    info:develop=prop,name=application-prop.yml,version=1
+    info:branch=config-server-dev,develop=prop,name=application-prop.yml,version=1
