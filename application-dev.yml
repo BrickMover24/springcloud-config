@@ -1,0 +1,4 @@
+config:
+    info:develop=dev,name=application-dev.yml,version=1
+    
+    

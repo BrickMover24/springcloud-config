@@ -1,0 +1,2 @@
+config:
+    info:develop=test,name=application-test.yml,version=1

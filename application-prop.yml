@@ -1,0 +1,2 @@
+config:
+    info:develop=prop,name=application-prop.yml,version=1
