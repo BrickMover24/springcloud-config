@@ -1,4 +1,4 @@
 config:
-    info:develop=dev,name=application-dev.yml,version=1
+    info:branch=config-server-dev,develop=dev,name=application-dev.yml,version=1
     
     
