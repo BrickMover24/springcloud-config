@@ -1,2 +1,2 @@
 config:
-    info:develop=test,name=application-test.yml,version=1
+    info:branch=config-server-dev,develop=test,name=application-test.yml,version=1
